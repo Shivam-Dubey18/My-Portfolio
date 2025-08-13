@@ -33,7 +33,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={HeroImage} alt="hero-image" />
+                        <Img src="" alt="hero-image" />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
@@ -41,5 +41,6 @@ const HeroSection = () => {
         </div>
     )
 }
+
 
 export default HeroSection
